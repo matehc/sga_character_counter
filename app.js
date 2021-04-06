@@ -1,6 +1,6 @@
 let div = document.querySelector(".display");
 
-let word = prompt("Insert a word");
+let word = prompt("Insert a word or sentence");
 
 let totalChar = 0;
 let totalVowel = 0;
